@@ -12,7 +12,7 @@ _Hannah Rashkin, Eric Michael Smith, Margaret Li, Y-Lan Boureau. **ACL2019**._
 [[PDF](https://arxiv.org/abs/1811.00207)]
 
 **A Taxonomy of Empathetic Response Intents in Human Social Conversations**.
-_Anuradha Welivita, Pearl Pu. **CODING2020**._
+_Anuradha Welivita, Pearl Pu. **COLING2020**._
 [[PDF](https://arxiv.org/abs/2012.04080)]
 
 **HappyBot: Generating Empathetic Dialogue Responses by Improving User Experience Look-ahead**.
