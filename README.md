@@ -48,4 +48,41 @@ _Ashish Sharma, Inna W. Lin, Adam S. Miner, David C. Atkins, Tim Althoff.
 **WWW2021**._
 [[PDF](https://arxiv.org/abs/2101.07714)]
 
-## Mental Health Support
+## Mental Health Support (Counseling conversation)
+
+**Finding Your Voice: The Linguistic Development of Mental Health Counselors**.
+_Justine Zhang, Robert Filbin, Christine Morrison, Jaclyn Weiser, Cristian Danescu-Niculescu-Mizil.
+**ACL2019**._
+[[PDF](https://arxiv.org/abs/1906.07194)]
+
+**Balancing Objectives in Counseling Conversations: Advancing Forwards or Looking Backwards**.
+_Justine Zhang, Cristian Danescu-Niculescu-Mizil.
+**ACL2020**._
+[[PDF](https://arxiv.org/abs/2005.04245)]
+
+**Large-scale Analysis of Counseling Conversations: An Application of Natural Language Processing to Mental Health**.
+_Tim Althoff, Kevin Clark, Jure Leskovec.
+**ACL2016**._
+[[PDF](https://www.aclweb.org/anthology/Q16-1033/)]
+
+**Engagement Patterns of Peer-to-Peer Interactions on Mental Health Platforms**.
+_Ashish Sharma, Monojit Choudhury, Tim Althoff, Amit Sharma.
+**ICWSM2020**._
+[[PDF](https://arxiv.org/abs/2004.04999)]
+
+**A fully automated conversational agent for promoting mental well-being: a pilot RCT using mixed methods**.
+_Kien Hoa Ly, Ann-Marie Ly, Gerhard Andersson.
+**Internet interventions, 2017**._
+[[PDF](https://www.sciencedirect.com/science/article/pii/S221478291730091X)]
+
+**On the State of Social Media Data for Mental Health Research**.
+_Keith Harrigian, Carlos Aguirre, Mark Dredze.
+**arXiv 2011.05233**._
+[[PDF](https://arxiv.org/abs/2011.05233)]
+
+**A Multi-Persona Chatbot for Hotline Counselor Training**.
+_Orianna Demasi, Yu Li, Zhou Yu.
+**findings-EMNLP2020**._
+[[PDF](https://www.aclweb.org/anthology/2020.findings-emnlp.324/)]
+
+
