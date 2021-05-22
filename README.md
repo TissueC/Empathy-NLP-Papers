@@ -48,6 +48,11 @@ _Ashish Sharma, Inna W. Lin, Adam S. Miner, David C. Atkins, Tim Althoff.
 **WWW2021**._
 [[PDF](https://arxiv.org/abs/2101.07714)]
 
+**CoMAE: A Multi-factor Hierarchical Framework for Empathetic Response Generation**.
+_Chujie Zheng, Yong Liu, Wei Chen, Yongcai Leng, Minlie Huang.
+**ACL2021-Fingdings**._
+[[PDF](https://arxiv.org/abs/2105.08316)]
+
 ## Mental Health Support (Counseling conversation)
 
 **Finding Your Voice: The Linguistic Development of Mental Health Counselors**.
