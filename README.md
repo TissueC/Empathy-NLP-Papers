@@ -50,8 +50,13 @@ _Ashish Sharma, Inna W. Lin, Adam S. Miner, David C. Atkins, Tim Althoff.
 
 **CoMAE: A Multi-factor Hierarchical Framework for Empathetic Response Generation**.
 _Chujie Zheng, Yong Liu, Wei Chen, Yongcai Leng, Minlie Huang.
-**ACL2021-Fingdings**._
+**findings-ACL2021**._
 [[PDF](https://arxiv.org/abs/2105.08316)]
+
+**Towards Detecting Need for Empathetic Response in Motivational Interviewing**.
+_Zixiu Wu, Rim Helaoui, Vivek Kumar, Diego Reforgiato Recupero, Daniele Riboni.
+**SAMIH2020 Workshop**._
+[[PDF](https://arxiv.org/abs/2105.09649)]
 
 ## Mental Health Support (Counseling conversation)
 
