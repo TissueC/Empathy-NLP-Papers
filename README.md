@@ -58,6 +58,16 @@ _Zixiu Wu, Rim Helaoui, Vivek Kumar, Diego Reforgiato Recupero, Daniele Riboni.
 **SAMIH2020 Workshop**._
 [[PDF](https://arxiv.org/abs/2105.09649)]
 
+**EmpTransfo: A Multi-head Transformer Architecture for Creating Empathetic Dialog Systems**.
+_Rohola Zandie, Mohammad H. Mahoor.
+**FLAIRS2020**._
+[[PDF](https://arxiv.org/abs/2003.02958)]
+
+**MoEL: Mixture of Empathetic Listeners**.
+_Zhaojiang Lin, Andrea Madotto, Jamin Shin, Peng Xu, Pascale Fung.
+**EMNLP2019**._
+[[PDF](https://arxiv.org/abs/1908.07687)]
+
 ## Mental Health Support (Counseling conversation)
 
 **Finding Your Voice: The Linguistic Development of Mental Health Counselors**.
